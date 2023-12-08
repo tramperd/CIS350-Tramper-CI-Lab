@@ -1,4 +1,4 @@
-frim math_functions import *
+from math_functions import *
 
 def test_calc_addition():
     output = add_numbers(2,4)
